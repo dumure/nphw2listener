@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "screenshotlistener", "screenshotlistener.csproj", "{2544A5C0-B551-4115-AC5E-F8E5B60ACAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2544A5C0-B551-4115-AC5E-F8E5B60ACAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2544A5C0-B551-4115-AC5E-F8E5B60ACAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2544A5C0-B551-4115-AC5E-F8E5B60ACAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2544A5C0-B551-4115-AC5E-F8E5B60ACAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE5A4EA-838E-4386-BD17-59EE76859CC2}
+	EndGlobalSection
+EndGlobal
